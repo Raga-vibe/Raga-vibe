@@ -1,6 +1,6 @@
 Hi, I'm Raga.
 
-I build AI agents and on-chain payment tools. Student at Federal University of Technology Minna, Nigeria.
+I build AI agents, data, data tools, web apps and on-chain payments.
 
 ### Featured
 - Podium - turn any hackathon page into a live mission board, and get coached toward a winning entry. Live: https://podium-82hb.onrender.com
